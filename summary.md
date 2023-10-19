@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Tyler Wells
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+A temperature controlled fan that will display the current temperature in the room, the current voltage, and the RPM of the fan 
 
 # Date Started
-11-16-2000
+10/19/23
