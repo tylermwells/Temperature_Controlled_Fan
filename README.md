@@ -1,24 +1,28 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Tyler Wells, Electrical Engineering (2025)
+tylermwells@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+NO MENTOR
 
 ## Current Status
 IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+This project will take a 5 volt source and run a fan based off of temperature change. When the temperature is high, the fan will spin faster and when the temperature is low, the fan will spin slower. On top of this circuit design, there will also be an LCD screen that will read the temperature currently in the room and the current RPM of the fan at the given time. Another reading that will want to be read is the voltage going to the 555 timer as well. 
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+This project will teach me how to use a 555 timer in a given application, know how to build each part of the circuit to work correctly as intended. Another educational value is being able to convert an analog signal into a digital signal that can be read on an LCD screen. 
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+1 - Understand how to use a 555 timer and design around the current application 
+2 - Build the circuit in LTspice and simulation each part to make sure it works correctly
+3 - Build the PCB on Ki-CAD with the correct populations
+4 - Build the PCB and test all the parts to make sure that everything is working accordingly 
+5 - Code the LCD and get that to display the correct values accordingly
 
 ## Design Decisions
 
@@ -38,11 +42,11 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 
 ## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+10/19/23 - Today I began the preliminary ideas on building this device. I consolted how to use a 555 timer and will begin to work on a testing design to understand the fuctionality of a 555 timer before moving on the actual circuit design
 
 ## Useful Links
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Useful Book: The Art of Electronics (3rd Edition)
 
 ## Log
 
