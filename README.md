@@ -3,7 +3,7 @@ Tyler Wells, Electrical Engineering (2025)
 tylermwells@vt.edu
 
 ## Mentor
-NO MENTOR
+Richard Gibbons
 
 ## Current Status
 IN PROGRESS
