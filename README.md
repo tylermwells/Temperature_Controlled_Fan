@@ -3,7 +3,7 @@ Tyler Wells, Electrical Engineering (2025)
 tylermwells@vt.edu
 
 ## Mentor
-Richard Gibbons
+Formally Richard Gibbons
 
 ## Current Status
 IN PROGRESS
@@ -18,11 +18,11 @@ This project will teach me how to use an ESP32 and learn how to use the program 
 
 ## Tasks
 
-1 - Build the temperature sensor and screen on Arduino and then switch it over to ESP32
-2 - Integrate OLED display into new design
-3 - Test the design on an ambient temperature of 40 C
-4 - Add a joystick to give selection functionality 
-5 - Populate a PCB with the design and then test
+1 - Build the temperature sensor and screen on Arduino and then switch it over to ESP32 ||
+2 - Integrate OLED display into new design ||
+3 - Test the design on an ambient temperature of 40 C ||
+4 - Add a joystick to give selection functionality ||
+5 - Populate a PCB with the design and then test ||
 
 ## Design Decisions
 
